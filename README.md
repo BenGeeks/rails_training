@@ -1,6 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-I have nothing to write here at this very moment.
+This is my very first GitHub and Rails project   
